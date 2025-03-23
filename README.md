@@ -9,7 +9,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I lived in Japan for awhile and used to be vet tech.</p>
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=JannaGomez alt=JannaGomez /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=JannaGomez alt=Janna-Gomez /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=JannaGomez&show_icons=true&include_all_commits=true)](https://github.com/JannaGomez/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JannaGomez&layout=compact)](https://github.com/JannaGomez/github-readme-stats)
